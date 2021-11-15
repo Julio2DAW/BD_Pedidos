@@ -1,0 +1,5 @@
+En el primer caso al no guardar el precio en la tabla ProductosPedidos, a la hora de actualizar el precio del producto,
+el cliente recibiría la devolución con el precio actual y no con el anterior.
+
+En el segundo caso al guardar el precio en la tabla LineaProducto, a la hora de la devolución recibiría el dinero que
+se gastó ya que el precio actual puede ser distinto pero no influye.
