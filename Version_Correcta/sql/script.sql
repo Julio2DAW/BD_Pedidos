@@ -1,5 +1,5 @@
 --Julio Antonio Ramos Gago
---Script para crear la Base de Datos Pedidos V1
+--Script para crear la Base de Datos Pedidos V2
 
 create database pedidosV2; --Crear la Base de Datos
 
